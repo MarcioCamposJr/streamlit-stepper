@@ -13,7 +13,7 @@ setup(
     description="Um componente Stepper personalizado para Streamlit",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MarcioCamposJr/streamlit-stepper",  # URL do repositório
+    url="https://github.com/seuusuario/my-streamlit-component",  # URL do repositório
     packages=find_packages(),
     include_package_data=True,  # Inclui arquivos especificados no MANIFEST.in
     install_requires=[
